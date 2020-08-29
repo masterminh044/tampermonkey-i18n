@@ -24,7 +24,7 @@
         }
     },
     "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-        "message": "$name$ $version$ đăng có sẵn.\nHãy tắt đi mở lại trình duyệt của bạn để bắt đầu cập nhật!",
+        "message": "$name$ $version$ đăng có sẵn.\nHãy khởi động lại trình duyệt của bạn để bắt đầu cập nhật!",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -999,7 +999,7 @@
         "message": "Theo chân"
     },
     "Try_to_install_as_script": {
-        "message": "Cố gắng cài như một tập lệnh"
+        "message": "Thử cài như một tập lệnh"
     },
     "Type": {
         "message": "Loại"
@@ -1139,7 +1139,7 @@
         "message": "Cập nhật tập lệnh người dùng"
     },
     "Your_language_is_not_supported__Click_here_to_get_intructions_how_to_translate_TM_": {
-        "message": "Ngôn ngữ của bạn không được hỗ trợ à?\nNhấp vào đây để nhận hướng dẫn về cách dịch Tampermonkey?"
+        "message": "Ngôn ngữ của bạn không được hỗ trợ\nNhấp vào đây để nhận hướng dẫn về cách dịch Tampermonkey"
     },
     "__Please_choose__": {
         "message": "-- Hãy chọn một tuỳ chọn --"
